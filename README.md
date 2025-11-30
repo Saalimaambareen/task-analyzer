@@ -26,4 +26,4 @@ This repository contains a Django backend and a simple frontend implementing the
 
 ## Notes
 - Smart Balanced algorithm is in `backend/tasks/scoring.py`.
-- Unit tests are in `backend/tasks/tests.py`.
+- Unit tests are in `backend/tasks/tests.py`..
