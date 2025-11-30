@@ -1,0 +1,17 @@
+*{box-sizing:border-box;font-family:Inter,Arial,Helvetica,sans-serif}
+body{background:#f7fafc;margin:0;padding:20px;color:#111}
+.container{max-width:900px;margin:0 auto;background:#fff;padding:20px;border-radius:10px;box-shadow:0 6px 20px rgba(0,0,0,0.06)}
+h1{margin-top:0}
+.input{margin-bottom:20px}
+#task-form input{display:inline-block;margin:6px 6px 6px 0;padding:10px;border:1px solid #ddd;border-radius:6px}
+#task-form button{padding:10px 14px;border:none;background:#2563eb;color:#fff;border-radius:6px;cursor:pointer}
+.controls{margin-top:10px}
+.controls select{padding:8px;margin-right:8px}
+textarea{width:100%;padding:10px;border-radius:6px;border:1px solid #ddd}
+.result-card{border:1px solid #eee;padding:10px;margin:8px 0;border-radius:8px;display:flex;justify-content:space-between;align-items:center}
+.meta{font-size:13px;color:#444}
+.score{font-weight:700;padding:8px 12px;border-radius:6px}
+.score.high{background:#fee2e2;color:#7f1d1d}
+.score.med{background:#fef3c7;color:#92400e}
+.score.low{background:#ecfccb;color:#365314}
+.badge{font-size:12px;background:#f0f4ff;padding:4px 8px;border-radius:6px;color:#1e3a8a}
