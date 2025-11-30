@@ -1,4 +1,4 @@
-# Task Analyzer (Smart Balanced) - Internship Assignment
+# Task Analyzer 
 
 This repository contains a Django backend and a simple frontend implementing the Smart Balanced priority algorithm described in the assignment.
 
